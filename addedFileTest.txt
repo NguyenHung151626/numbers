@@ -1,1 +1,2 @@
 file added for testing no conflict
+dev remote add no conflict
